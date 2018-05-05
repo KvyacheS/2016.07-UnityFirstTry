@@ -1,0 +1,4511 @@
+fileFormatVersion: 2
+guid: 0a19e22c0a963b2489d22ae0a707d4b4
+timeCreated: 1472555748
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemies1_0
+    21300002: Enemies1_1
+    21300004: Enemies1_2
+    21300006: Enemies1_3
+    21300008: Enemies1_4
+    21300010: Enemies1_5
+    21300012: Enemies1_6
+    21300014: Enemies1_7
+    21300016: Enemies1_8
+    21300018: Enemies1_9
+    21300020: Enemies1_10
+    21300022: Enemies1_11
+    21300024: Enemies1_12
+    21300026: Enemies1_13
+    21300028: Enemies1_14
+    21300030: Enemies1_15
+    21300032: Enemies1_16
+    21300034: Enemies1_17
+    21300036: Enemies1_18
+    21300038: Enemies1_19
+    21300040: Enemies1_20
+    21300042: Enemies1_21
+    21300044: Enemies1_22
+    21300046: Enemies1_23
+    21300048: Enemies1_24
+    21300050: Enemies1_25
+    21300052: Enemies1_26
+    21300054: Enemies1_27
+    21300056: Enemies1_28
+    21300058: Enemies1_29
+    21300060: Enemies1_30
+    21300062: Enemies1_31
+    21300064: Enemies1_32
+    21300066: Enemies1_33
+    21300068: Enemies1_34
+    21300070: Enemies1_35
+    21300072: Enemies1_36
+    21300074: Enemies1_37
+    21300076: Enemies1_38
+    21300078: Enemies1_39
+    21300080: Enemies1_40
+    21300082: Enemies1_41
+    21300084: Enemies1_42
+    21300086: Enemies1_43
+    21300088: Enemies1_44
+    21300090: Enemies1_45
+    21300092: Enemies1_46
+    21300094: Enemies1_47
+    21300096: Enemies1_48
+    21300098: Enemies1_49
+    21300100: Enemies1_50
+    21300102: Enemies1_51
+    21300104: Enemies1_52
+    21300106: Enemies1_53
+    21300108: Enemies1_54
+    21300110: Enemies1_55
+    21300112: Enemies1_56
+    21300114: Enemies1_57
+    21300116: Enemies1_58
+    21300118: Enemies1_59
+    21300120: Enemies1_60
+    21300122: Enemies1_61
+    21300124: Enemies1_62
+    21300126: Enemies1_63
+    21300128: Enemies1_64
+    21300130: Enemies1_65
+    21300132: Enemies1_66
+    21300134: Enemies1_67
+    21300136: Enemies1_68
+    21300138: Enemies1_69
+    21300140: Enemies1_70
+    21300142: Enemies1_71
+    21300144: Enemies1_72
+    21300146: Enemies1_73
+    21300148: Enemies1_74
+    21300150: Enemies1_75
+    21300152: Enemies1_76
+    21300154: Enemies1_77
+    21300156: Enemies1_78
+    21300158: Enemies1_79
+    21300160: Enemies1_80
+    21300162: Enemies1_81
+    21300164: Enemies1_82
+    21300166: Enemies1_83
+    21300168: Enemies1_84
+    21300170: Enemies1_85
+    21300172: Enemies1_86
+    21300174: Enemies1_87
+    21300176: Enemies1_88
+    21300178: Enemies1_89
+    21300180: Enemies1_90
+    21300182: Enemies1_91
+    21300184: Enemies1_92
+    21300186: Enemies1_93
+    21300188: Enemies1_94
+    21300190: Enemies1_95
+    21300192: Enemies1_96
+    21300194: Enemies1_97
+    21300196: Enemies1_98
+    21300198: Enemies1_99
+    21300200: Enemies1_100
+    21300202: Enemies1_101
+    21300204: Enemies1_102
+    21300206: Enemies1_103
+    21300208: Enemies1_104
+    21300210: Enemies1_105
+    21300212: Enemies1_106
+    21300214: Enemies1_107
+    21300216: Enemies1_108
+    21300218: Enemies1_109
+    21300220: Enemies1_110
+    21300222: Enemies1_111
+    21300224: Enemies1_112
+    21300226: Enemies1_113
+    21300228: Enemies1_114
+    21300230: Enemies1_115
+    21300232: Enemies1_116
+    21300234: Enemies1_117
+    21300236: Enemies1_118
+    21300238: Enemies1_119
+    21300240: Enemies1_120
+    21300242: Enemies1_121
+    21300244: Enemies1_122
+    21300246: Enemies1_123
+    21300248: Enemies1_124
+    21300250: Enemies1_125
+    21300252: Enemies1_126
+    21300254: Enemies1_127
+    21300256: Enemies1_128
+    21300258: Enemies1_129
+    21300260: Enemies1_130
+    21300262: Enemies1_131
+    21300264: Enemies1_132
+    21300266: Enemies1_133
+    21300268: Enemies1_134
+    21300270: Enemies1_135
+    21300272: Enemies1_136
+    21300274: Enemies1_137
+    21300276: Enemies1_138
+    21300278: Enemies1_139
+    21300280: Enemies1_140
+    21300282: Enemies1_141
+    21300284: Enemies1_142
+    21300286: Enemies1_143
+    21300288: Enemies1_144
+    21300290: Enemies1_145
+    21300292: Enemies1_146
+    21300294: Enemies1_147
+    21300296: Enemies1_148
+    21300298: Enemies1_149
+    21300300: Enemies1_150
+    21300302: Enemies1_151
+    21300304: Enemies1_152
+    21300306: Enemies1_153
+    21300308: Enemies1_154
+    21300310: Enemies1_155
+    21300312: Enemies1_156
+    21300314: Enemies1_157
+    21300316: Enemies1_158
+    21300318: Enemies1_159
+    21300320: Enemies1_160
+    21300322: Enemies1_161
+    21300324: Enemies1_162
+    21300326: Enemies1_163
+    21300328: Enemies1_164
+    21300330: Enemies1_165
+    21300332: Enemies1_166
+    21300334: Enemies1_167
+    21300336: Enemies1_168
+    21300338: Enemies1_169
+    21300340: Enemies1_170
+    21300342: Enemies1_171
+    21300344: Enemies1_172
+    21300346: Enemies1_173
+    21300348: Enemies1_174
+    21300350: Enemies1_175
+    21300352: Enemies1_176
+    21300354: Enemies1_177
+    21300356: Enemies1_178
+    21300358: Enemies1_179
+    21300360: Enemies1_180
+    21300362: Enemies1_181
+    21300364: Enemies1_182
+    21300366: Enemies1_183
+    21300368: Enemies1_184
+    21300370: Enemies1_185
+    21300372: Enemies1_186
+    21300374: Enemies1_187
+    21300376: Enemies1_188
+    21300378: Enemies1_189
+    21300380: Enemies1_190
+    21300382: Enemies1_191
+    21300384: Enemies1_192
+    21300386: Enemies1_193
+    21300388: Enemies1_194
+    21300390: Enemies1_195
+    21300392: Enemies1_196
+    21300394: Enemies1_197
+    21300396: Enemies1_198
+    21300398: Enemies1_199
+    21300400: Enemies1_200
+    21300402: Enemies1_201
+    21300404: Enemies1_202
+    21300406: Enemies1_203
+    21300408: Enemies1_204
+    21300410: Enemies1_205
+    21300412: Enemies1_206
+    21300414: Enemies1_207
+    21300416: Enemies1_208
+    21300418: Enemies1_209
+    21300420: Enemies1_210
+    21300422: Enemies1_211
+    21300424: Enemies1_212
+    21300426: Enemies1_213
+    21300428: Enemies1_214
+    21300430: Enemies1_215
+    21300432: Enemies1_216
+    21300434: Enemies1_217
+    21300436: Enemies1_218
+    21300438: Enemies1_219
+    21300440: Enemies1_220
+    21300442: Enemies1_221
+    21300444: Enemies1_222
+    21300446: Enemies1_223
+    21300448: Enemies1_224
+    21300450: Enemies1_225
+    21300452: Enemies1_226
+    21300454: Enemies1_227
+    21300456: Enemies1_228
+    21300458: Enemies1_229
+    21300460: Enemies1_230
+    21300462: Enemies1_231
+    21300464: Enemies1_232
+    21300466: Enemies1_233
+    21300468: Enemies1_234
+    21300470: Enemies1_235
+    21300472: Enemies1_236
+    21300474: Enemies1_237
+    21300476: Enemies1_238
+    21300478: Enemies1_239
+    21300480: Enemies1_240
+    21300482: Enemies1_241
+    21300484: Enemies1_242
+    21300486: Enemies1_243
+    21300488: Enemies1_244
+    21300490: Enemies1_245
+    21300492: Enemies1_246
+    21300494: Enemies1_247
+    21300496: Enemies1_248
+    21300498: Enemies1_249
+    21300500: Enemies1_250
+    21300502: Enemies1_251
+    21300504: Enemies1_252
+    21300506: Enemies1_253
+    21300508: Enemies1_254
+    21300510: Enemies1_255
+    21300512: Enemies1_256
+    21300514: Enemies1_257
+    21300516: Enemies1_258
+    21300518: Enemies1_259
+    21300520: Enemies1_260
+    21300522: Enemies1_261
+    21300524: Enemies1_262
+    21300526: Enemies1_263
+    21300528: Enemies1_264
+    21300530: Enemies1_265
+    21300532: Enemies1_266
+    21300534: Enemies1_267
+    21300536: Enemies1_268
+    21300538: Enemies1_269
+    21300540: Enemies1_270
+    21300542: Enemies1_271
+    21300544: Enemies1_272
+    21300546: Enemies1_273
+    21300548: Enemies1_274
+    21300550: Enemies1_275
+    21300552: Enemies1_276
+    21300554: Enemies1_277
+    21300556: Enemies1_278
+    21300558: Enemies1_279
+    21300560: Enemies1_280
+    21300562: Enemies1_281
+    21300564: Enemies1_282
+    21300566: Enemies1_283
+    21300568: Enemies1_284
+    21300570: Enemies1_285
+    21300572: Enemies1_286
+    21300574: Enemies1_287
+    21300576: Enemies1_288
+    21300578: Enemies1_289
+    21300580: Enemies1_290
+    21300582: Enemies1_291
+    21300584: Enemies1_292
+    21300586: Enemies1_293
+    21300588: Enemies1_294
+    21300590: Enemies1_295
+    21300592: Enemies1_296
+    21300594: Enemies1_297
+    21300596: Enemies1_298
+    21300598: Enemies1_299
+    21300600: Enemies1_300
+    21300602: Enemies1_301
+    21300604: Enemies1_302
+    21300606: Enemies1_303
+    21300608: Enemies1_304
+    21300610: Enemies1_305
+    21300612: Enemies1_306
+    21300614: Enemies1_307
+    21300616: Enemies1_308
+    21300618: Enemies1_309
+    21300620: Enemies1_310
+    21300622: Enemies1_311
+    21300624: Enemies1_312
+    21300626: Enemies1_313
+    21300628: Enemies1_314
+    21300630: Enemies1_315
+    21300632: Enemies1_316
+    21300634: Enemies1_317
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemies1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 754
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 754
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 754
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 754
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 754
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 754
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 754
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 754
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 754
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 754
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 754
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 754
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 754
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_13
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 754
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 754
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 754
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 754
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 712
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 712
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 712
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 712
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 743
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 712
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 712
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 712
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 712
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 712
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 712
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 712
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 712
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 712
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 708
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 666
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 666
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 666
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 666
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 666
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 697
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 697
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 697
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 697
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_46
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 697
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_47
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 697
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_48
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 697
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 695
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_51
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_53
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 697
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 697
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_55
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_58
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 697
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 697
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_60
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 697
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 695
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_62
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 695
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_63
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_64
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_65
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 697
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 695
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_70
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_71
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_72
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_73
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_74
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_76
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 695
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_78
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_79
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 697
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 690
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_81
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 671
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_82
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 671
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 671
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 669
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 671
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 671
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_87
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 671
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_89
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_90
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_91
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 671
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 671
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_93
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_94
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_95
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_96
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_97
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 671
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 671
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_99
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 671
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_100
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 671
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_102
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 669
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_103
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_104
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 669
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_105
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 671
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 671
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_107
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_108
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 671
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 671
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_110
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_111
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 671
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_112
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 671
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_113
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 671
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_114
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 671
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 708
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_117
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_118
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_119
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_121
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 626
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_123
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 626
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_124
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 626
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_125
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 626
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_126
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 626
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_127
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 626
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_128
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 626
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_129
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 626
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_130
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_131
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 626
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_132
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 648
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_133
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_134
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 653
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_135
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 626
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 708
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_137
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 589
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_138
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 589
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 589
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_140
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 531
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_141
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 531
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_142
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 531
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_143
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 531
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_144
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 531
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_145
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 531
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_146
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 531
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_147
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 569
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_148
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 531
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 528
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_150
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 528
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_151
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 528
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_152
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 528
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_153
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 528
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_154
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 531
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_155
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 531
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_156
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_157
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 479
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_158
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 479
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_159
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 479
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_160
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 479
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_161
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 479
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 708
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_163
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 426
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_164
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_165
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_166
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_168
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_169
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_170
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_172
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 426
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_173
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 426
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_174
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 426
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_175
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 426
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_176
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 426
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_177
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 426
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_178
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 426
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_179
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 426
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_180
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 426
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_181
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 426
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_182
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 426
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 375
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_184
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 375
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_185
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 375
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_186
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 375
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_187
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 375
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_188
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 375
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_189
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 375
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_190
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 375
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 708
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_192
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 307
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_193
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 307
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_194
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 353
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_195
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 346
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_196
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 358
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_197
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 350
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_198
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 348
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_199
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 339
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_200
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 307
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_201
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 344
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_202
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 327
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_203
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 337
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_204
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 334
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_205
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 333
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_206
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 337
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_207
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 334
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_208
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_209
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 325
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_210
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 322
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_211
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 324
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 321
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_213
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_214
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 310
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_215
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 309
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_216
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 307
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 306
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_218
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 306
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_219
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 308
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 708
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_221
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_222
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 256
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_223
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 256
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_224
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 295
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_225
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_226
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 256
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_227
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 256
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_228
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 268
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_229
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 256
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_230
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 283
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_231
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 256
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_232
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_233
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 256
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_234
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 256
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_235
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 256
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_236
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 256
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 708
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_238
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 211
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_239
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 221
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_240
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 211
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_241
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 221
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_242
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 211
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_243
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 221
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_244
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 211
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_245
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 211
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_246
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 221
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_247
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 211
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_248
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 222
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_249
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 211
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_250
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 221
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_251
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 211
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_252
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 221
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_253
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 211
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_254
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 221
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_255
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 211
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_256
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 222
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_257
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 211
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_258
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 222
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_259
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 211
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 708
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_261
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_262
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 138
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_263
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 138
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_264
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 138
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_265
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 137
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_266
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_267
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_268
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 112
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_269
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 63
+        width: 25
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_270
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 95
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_271
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 127
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_272
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 124
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_273
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 106
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_274
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 99
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_275
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_276
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_277
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 101
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_278
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 109
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_279
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 111
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_280
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_281
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 63
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_282
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 63
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_283
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 106
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_284
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_285
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 103
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_286
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 63
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_287
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 104
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_288
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_289
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_290
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_291
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 63
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_292
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_293
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 63
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_294
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 63
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_295
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 63
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_296
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 63
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_297
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 63
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_298
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 63
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_299
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 63
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_300
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 63
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_301
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 63
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_302
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 63
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_303
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_304
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_305
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_306
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 30
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_307
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 5
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_308
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_309
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_310
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_311
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_312
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_313
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_314
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 23
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_315
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 16
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_316
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 55
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies1_317
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
